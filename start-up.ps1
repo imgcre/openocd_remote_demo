@@ -1,0 +1,1 @@
+openocd -f .\dev.cfg
